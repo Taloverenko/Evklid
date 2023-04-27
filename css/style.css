@@ -950,6 +950,7 @@ footer {
 
 
 .foot-center__check {
+  font-size: 18px;
   color: var(--light-grey);
   cursor: pointer;
   -webkit-box-align: center;
